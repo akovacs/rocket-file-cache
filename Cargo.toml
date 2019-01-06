@@ -15,7 +15,7 @@ documentation = "https://docs.rs/crate/rocket-file-cache"
 license-file = "LICENSE"
 
 [dependencies]
-rocket = "0.3.6"
+rocket = "0.4.0"
 log = "0.3.8"
 concurrent-hashmap = "0.2.2"
 
